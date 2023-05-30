@@ -9,4 +9,4 @@ This is the place where I opensource stuff and break things 🤣
 
 👨‍💻  Read more about my projects at gautamkrishnar.com
 
-⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme) 
+⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)  
