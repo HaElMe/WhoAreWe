@@ -5,9 +5,9 @@
 
 - 🔭 We’re currently working on **Big Data Explorers**
 
-- 🌱We're currently learning **all big data tools and Cloud functions**
+- 🌱We're currently learning **all Big Data Tools and Cloud Functions**
 
-- 🤝 We’re looking for help with **to every project related to big data projects**
+- 🤝 We’re looking for help with **to every project related to Big Data Projects**
 
 <h3 align="left">Connect with us: Write on github profile </h3>
 <p align="left">
